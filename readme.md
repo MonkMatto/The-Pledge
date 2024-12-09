@@ -29,4 +29,5 @@ The getPledgerData(_address) funtion allows an app or contract a single call to 
             getTransferableAmount(_address),
             getTimeRemainingInWindow(_address)
         );
-    }```
+    }
+```
