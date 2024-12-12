@@ -31,3 +31,6 @@ The getPledgerData(_address) funtion allows an app or contract a single call to 
         );
     }
 ```
+
+## Interaction Contract
+I've written an importable example contract that can be used to interact with The Pledge ERC-20 contract. You can use it as is, or delete any functions you don't want to use. Note that you have to keep the interface to use any of the functions.
